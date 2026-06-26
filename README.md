@@ -8,6 +8,8 @@ An interactive Power BI dashboard analyzing **Air Quality Index (AQI) trends acr
 Air quality is one of India's most pressing environmental challenges. This project transforms raw AQI data into a visual, interactive analytics layer that lets stakeholders explore city-wise pollution patterns and track how air quality changes over time — all connected to a cloud storage backend for maintainability and scalability.
  
 ---
+<img width="1041" height="582" alt="image" src="https://github.com/user-attachments/assets/dee02d24-efe4-40b0-a9b2-cfbc49832b75" />
+
  
 ## 🎯 Business Questions Answered
  
